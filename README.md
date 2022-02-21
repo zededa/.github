@@ -10,4 +10,4 @@ Visit [zededa.com](https://zededa.com) to learn more!
 
 ----------
 
-##### We're hiring! Our team shines bright across every function and we're expanding faster than ever. [Join us](https://boards.greenhouse.io/zededa) in our mission to make edgecomputing effortless.
+##### We're hiring! Our team shines bright across every function and we're expanding faster than ever. [Join us](https://boards.greenhouse.io/zededa) in our mission to make edge computing effortless.

@@ -4,7 +4,7 @@
 
 ## About ZEDEDA
 ZEDEDA provides a cloud-native orchestration solution for the distributed edge that delivers visibility, control and security for edge computing deployments in the field. 
-ZEDEDA leverages the open source [EVE-OS](https://github.com/lf-edge/eve) from [LF Edge](https://github.com/lf-edge) - a lightweight, secure, open, universal and Linux-based edge operating system with open orchestration APIs. 
+ZEDEDA leverages the open source [EVE](https://github.com/lf-edge/eve) from [LF Edge](https://github.com/lf-edge) - a lightweight, secure, open, universal and Linux-based edge operating system with open orchestration APIs. 
 
 Visit [zededa.com](https://zededa.com) to learn more!
 
